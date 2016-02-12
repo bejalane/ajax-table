@@ -13,9 +13,6 @@
 
 <div class="container">
 
-	<div style="display:none;">this is just for git
-		<p>This is new change</p>
-	</div>
 
 
     	<h1>MySQL Ajax Table</h1>      
