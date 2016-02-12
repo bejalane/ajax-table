@@ -1,0 +1,25 @@
+.col-lg-12 {
+	padding-top: 100px;
+}
+
+.success-control {
+	background-color: #DFF0D8;
+
+}
+
+.success-control-edit {
+	background-color: #fff;
+	transition: all 0.4s;
+}
+
+
+
+
+.face {
+	text-align: center;
+	padding-top: 100px;
+}
+
+.face p {
+	font-size: 2em;
+}
